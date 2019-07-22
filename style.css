@@ -1,15 +1,36 @@
+html
+{
+	font-family: "Merriweather" , sans-serif ;
+	color: #ccc ;
+}
+/*
+body 
+{
+	padding-top: 70px; 
+}
+*/
 .container
 {
 	padding-top: 1.0em ;
+	color: #666 ;
+	line-height: 150%; 
 }
 
 .container h1
 {
 	font-family: "Georgia" ;
-	font-style : italic ;
+	font-style: italic ;
+	color : #000 ;
 }
 
 .container small
 {
 	font-size: 0.4em;
+}
+
+.greeting-texts
+{
+	font-style: italic ;
+	padding-left: 10px ;
+	padding-right: 10px ;
 }
