@@ -1,0 +1,15 @@
+.container
+{
+	padding-top: 1.0em ;
+}
+
+.container h1
+{
+	font-family: "Georgia" ;
+	font-style : italic ;
+}
+
+.container small
+{
+	font-size: 0.4em;
+}
