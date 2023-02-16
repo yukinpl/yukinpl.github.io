@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>CAMERA TEST</title>
+<style>
+html , body
+{
+	margin  :    0 ;
+	padding :    0 ;
+	height  : 100% ;
+	width   : 100% ;
+}
+
+#header
+{
+	position: absolute ;
+	top: 50px ;
+	left: 50% ;
+	z-index: 999 ;
+	color: white ;
+	text-align: center ;
+	transform: translate( -50% , -50% ) ;
+}
+
+#camera , #camera-play
+{
+	position   : fixed ;
+	height     : 100%  ;
+	width      : 100%  ;
+	object-fit : cover ;
+}
+
+#camera-play
+{
+	transform : scaleX( -1 ) ;
+	filter    : FlipH ;
+}
+
+</style>
+</head>
+
+<body>
+    <div id="header">
+        <h3>CAMERA TEST</h3>
+    </div>
+    
+    <main id="camera">
+        <video id="camera-play" autoplay playsinline></video>
+    </main>
+
+
+    <script>
+        let   deviceConstraints = { video: { facingMode: "user" } , audio: false } ;
+        const cameraView = document.querySelector( "#camera-play" ) ;
+
+        function BeginToStream()
+		{
+            navigator.mediaDevices.getUserMedia( deviceConstraints )
+                .then( function( stream )
+				{
+                    cameraView.srcObject = stream ;
+
+                } )
+                .catch( function( error ) {
+                    console.error( "Camera has problem" , error ) ;
+                } )
+        }
+
+        window.addEventListener( "load" , BeginToStream , false ) ;
+    </script>
+</body>
+</html>
