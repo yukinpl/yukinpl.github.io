@@ -47,7 +47,8 @@ social:
 
 
 # Google Analytics
-google-analytics: # Add your GA Tracking Id. For example UA-99631805-1.
+google-analytics: GTM-MRDXNVXF
+# Add your GA Tracking Id. For example UA-99631805-1.
 
 # Build settings
 markdown: kramdown
