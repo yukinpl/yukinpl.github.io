@@ -1,0 +1,28 @@
+/* Contact */
+.form__group {
+  margin-bottom: 20px;
+}
+
+.form__input {
+  width: 100%;
+  padding: 16px;
+  font-size: 15px;
+  line-height: 1;
+  border: 1px solid var(--border-color);
+  color: var(--heading-font-color);
+  background: var(--background-color);
+  outline: none;
+  transition: $global-transition;
+
+  &::placeholder {
+    color: var(--text-alt-color);
+  }
+
+  &:focus {
+    border-color: var(--brand-color);
+  }
+}
+
+textarea.form__input {
+  resize: vertical;
+}

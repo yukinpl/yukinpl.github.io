@@ -1,0 +1,135 @@
+/* Search */
+.search {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  transform: scale(0.95);
+  opacity: 0;
+  background: var(--background-main-color);
+  transition: all .25s ease;
+  &.is-visible {
+    transform: scale(1);
+    z-index: 100;
+    opacity: 1;
+    transition: all .25s ease;
+  }
+}
+
+.search__box {
+  width: 55%;
+  margin: 0 auto;
+  padding-top: 240px;
+
+  @media only screen and (max-width: $tablet) {
+    width: 90%;
+    padding-top: 100px;
+  }
+}
+
+.search__group {
+  position: relative;
+  margin-bottom: 30px;
+
+  .search__close {
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    border-radius: 50%;
+    color: var(--heading-font-color);
+    background: var(--background-alt-color);
+    cursor: pointer;
+    will-change: transform;
+    transition: all .25s;
+
+    &:hover {
+      transform: rotate(90deg);
+    }
+  }
+
+  .search__text {
+    width: 100%;
+    padding: 16px 38px 16px 0;
+    font-family: $heading-font-family;
+    font-size: 36px;
+    line-height: 40px;
+    outline: 0;
+    border: none;
+    border-radius: 0;
+    border-bottom: 3px solid var(--heading-font-color);
+    color: var(--heading-font-color);
+    background: transparent;
+    &::placeholder {
+      font-weight: 400;
+      color: var(--heading-font-color);
+    }
+    &::-ms-clear {
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: $mobile) {
+    .search__close {
+      top: 14px;
+      width: 36px;
+      height: 36px;
+    }
+
+    .search__text {
+      font-size: 32px;
+      line-height: 36px;
+    }
+  }
+}
+
+.search-results-list {
+  height: 55vh;
+  margin: 0 0 0 -5px;
+  padding: 0 0 25px 35px;
+  list-style: decimal;
+  font-weight: 700;
+  color: var(--heading-font-color);
+  overflow: auto;
+  white-space: normal;
+
+  .search-results__item {
+    margin-bottom: 10px;
+    &::marker {
+      font-size: 15px;
+      font-weight: 600;
+      font-style: italic;
+      color: var(--brand-color);
+    }
+  }
+
+  .search-results__link {
+    display: block;
+    padding: 16px;
+    font-family: $heading-font-family;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    border-radius: 3px;
+    color: var(--heading-font-color);
+    background: var(--background-alt-color);
+    &:hover {
+      color: var(--heading-font-color);
+    }
+  }
+
+  .no-results {
+    list-style: none;
+    margin-left: -32px;
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--heading-font-color);
+  }
+}

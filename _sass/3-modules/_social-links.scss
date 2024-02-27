@@ -1,0 +1,33 @@
+/* Social Links */
+.social {
+  margin: 50px 0 0;
+  text-align: center;
+  .social__item {
+    display: inline-block;
+    margin: 0 20px;
+
+    @media only screen and (max-width: $tablet) {
+      margin: 0 10px;
+    }
+  }
+
+  .social__link {
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    &:hover {
+      color: var(--link-color);
+    }
+    i {
+      margin-right: 4px;
+    }
+    @media only screen and (max-width: $tablet) {
+      letter-spacing: 1px;
+    }
+
+    @media only screen and (max-width: $mobile) {
+      font-size: 12px;
+    }
+  }
+}
