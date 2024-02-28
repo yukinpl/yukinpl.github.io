@@ -9,6 +9,10 @@
 <lastmod>2024-02-27T16:38:11+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2024/02/29/when-spring-comes/</loc>
+<lastmod>2024-02-29T00:50:14+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -16,5 +20,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/disorders/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/thought/</loc>
 </url>
 </urlset>
