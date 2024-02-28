@@ -4,6 +4,8 @@ description: "Dialy written record."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yukin.pl" # the base hostname & protocol for your site, e.g. http://example.com
 
+timezone: Asia/Seoul
+
 # Author Settings
 author:
   name: Daniel Lee
