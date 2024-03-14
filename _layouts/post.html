@@ -79,22 +79,23 @@ layout: default
           <a href="{{site.baseurl}}/about/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.image}})" aria-label="{{site.author.name}}"></a>
           <a class="author__name" href="{{site.baseurl}}/about/">{{site.author.name}}</a>
         </div>
-
+		
         <div class="post__navigation">
+          
+		  {% if page.next.url %}
+          <div class="next">
+            <a class="post__nav post__nav__next" href="{{page.next.url}}"><i class="ion ion-ios-arrow-back"></i> Next Page</a>
+            <h4 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h4>
+          </div>
+          {% endif %}
 
-          {% if page.previous.url %}
-            <div class="prev">
-              <a class="post__nav post__nav__prev" href="{{page.previous.url}}"><i class="ion ion-ios-arrow-back"></i> Previous Page</a>
+		  {% if page.previous.url %}
+			<div class="prev">
+              <a class="post__nav post__nav__prev" href="{{page.previous.url}}">Previous Page <i class="ion ion-ios-arrow-forward"></i></a>
               <h4 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h4>
             </div>
           {% endif %}
 
-          {% if page.next.url %}
-          <div class="next">
-            <a class="post__nav post__nav__next" href="{{page.next.url}}">Next Page <i class="ion ion-ios-arrow-forward"></i></a>
-            <h4 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h4>
-          </div>
-          {% endif %}
         </div>
 
         {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}

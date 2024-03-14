@@ -4,6 +4,7 @@ title:  아픈 사람
 date:   2024-03-14 00:06:14 +0900
 image:  '/images/2024-03-14-sick-person.png'
 tags:   [thought]
+comment: yes
 ---
 자신을 보며 느끼는 것. 늘 아프다. 계속 아프다. 
 
