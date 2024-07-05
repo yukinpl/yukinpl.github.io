@@ -36,4 +36,7 @@
 <url>
 <loc>http://localhost:4000/tag/thought/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/tag/childhood/</loc>
+</url>
 </urlset>
