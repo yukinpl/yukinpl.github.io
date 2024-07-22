@@ -114,6 +114,9 @@
   }
   a {
     border-bottom: 1px solid var(--link-color);
+    &:link, &:visited, &:active {
+      color: #c09 ;
+    }
     &:hover {
       border-color: transparent;
     }
