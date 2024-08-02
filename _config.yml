@@ -1,6 +1,6 @@
 title: "Halcyon days"
 logo: # You can add own logo. For example '/images/logo.png'.
-description: "Dialy written record."
+description: "Daily written record."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yukin.pl" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -60,7 +60,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 9
+paginate: 12
 paginate_path: "/page/:num"
 
 # Pages Path
