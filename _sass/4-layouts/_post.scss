@@ -133,6 +133,12 @@
   }
 }
 
+.button {
+	a {
+		color: var(--link-color);
+	}
+}
+
 /* Share */
 .post__share {
   margin-bottom: 20px;
