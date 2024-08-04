@@ -5,9 +5,34 @@
         <description>Daily written record.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Aug 2024 00:58:57 +0900</pubDate>
-        <lastBuildDate>Sat, 03 Aug 2024 00:58:57 +0900</lastBuildDate>
+        <pubDate>Mon, 05 Aug 2024 03:01:47 +0900</pubDate>
+        <lastBuildDate>Mon, 05 Aug 2024 03:01:47 +0900</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
+        
+            <item>
+                <title>어릴 적 기억, 세 번째</title>
+                <description>&lt;blockquote&gt;
+  &lt;p&gt;나는 여전히 서른 이후의 삶을 그리지 못한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;누군가 작성한 이 문장이 기억을 떠올리게 했다. 그리고 내 우울이 이제 시작한 것이 아니라 훨씬 오래되었을 거란 선생님의 말씀이 동시에 떠 올랐다. 늦어도 고등학생, 아마도 더 이전일 것이라는 말. 이 말이 진짜라는 사실을 지금 깨달았다.&lt;/p&gt;
+
+&lt;p&gt;고등학생 시절, 완벽한 단절을 희망했다. 꿈꾸었다기보다 강렬히 이루고자 했다. 주변 사람이 아닌 사람, 다시 만날 일이 없을 것 같은 사람에게 단언했다. ‘무인도에 가서 혼자 살고 싶다.’라고 말했다. 반드시 이루고 싶다고 했다. 이유는 말하지 않았다. 무인도가 좋아서도 바다가 좋아서도 아니다. 그저 사람과의 거리, 완벽한 단절을 원했다. 나 아닌 다른 이와 함께하는 삶을 끔찍이도 싫어했고 누군가 내게 말 거는 것조차 싫었다. - 싫어도 대화는 했다. 싫어도 입을 다물 수는 없었다. 그 또한 이유는 모르겠다. - 그렇게 어두웠구나.&lt;/p&gt;
+
+&lt;p&gt;어린 시절과 달리 경제적 여건이 나쁘지 않았다. 그렇다고 해서 여유가 넘치지도 않았다. 학교에 가려면 버스를 한 번 갈아타야 했다. 시골에서 도시 버스 정류장으로, 도시 버스 정류장에서 학교로, 갈아타야 했다. 7시 버스를 타고 학교에 가면 겨우 8시 40분쯤 도착했다. 그 시절 용돈은 딱 버스비. 용돈을 만들고 싶어서 하교할 때 도시에서 버스를 타지 않고 2~3시간씩 걸었던 기억이 참 많다. 그런 삶을 사는 꼬맹이에게 섬을 구한다는 것은 말도 안 되는 일이다.&lt;/p&gt;
+
+&lt;p&gt;25살. 이유는 알 수 없지만 그 나이가 되면 사람들과 단절될 수 있을 거라고 믿었다. 그로 인해 그 이후의 삶은 생각하지 않았다. 모든 것이 마무리되는 기점을 25살로 정한 것이다. 혹여 그 나이까지 섬을 구할 수 없다 하더라도 그 이후의 삶은 무의미하니 직업에 관한 생각도 없었다. 단절과 죽음을 꿈꾸는 사람에게 직업이 중요할 리 없다.&lt;/p&gt;
+
+&lt;p&gt;그랬구나. 정말 어릴 때부터 죽음을 꿈꾸며 살았구나. 오래전 우울을 가졌구나. 여전히 자신에 대해 모르는 것이 너무 많구나. 오래 함께한 우울에 대해서도 모르는 것이 너무 많구나.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 05 Aug 2024 02:19:53 +0900</pubDate>
+                <link>http://localhost:4000/2024/08/05/disorders-record-3rd/</link>
+                <guid isPermaLink="true">http://localhost:4000/2024/08/05/disorders-record-3rd/</guid>
+                
+                <category>thought</category>
+                
+                
+            </item>
         
             <item>
                 <title>어릴 적 기억, 두 번째</title>
