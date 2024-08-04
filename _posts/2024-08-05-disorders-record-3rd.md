@@ -3,7 +3,7 @@ layout: post
 title:  어릴 적 기억, 세 번째
 date:   2024-08-05 02:19:53 +0900
 image:  '/images/2024-08-05-childhood.memories.3rd.png'
-tags:   [thought]
+tags:   [childhood,disorders]
 ---
 
 > 나는 여전히 서른 이후의 삶을 그리지 못한다.
