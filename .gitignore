@@ -3,3 +3,4 @@
 serve.sh
 serve-drafts.sh
 *.swp
+_drafts/
