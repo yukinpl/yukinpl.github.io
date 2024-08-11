@@ -131,6 +131,10 @@
     pointer-events: none;
     user-select: none;
   }
+
+  blockquote {
+	  font-size: $base-font-size; 
+  }
 }
 
 .button {
