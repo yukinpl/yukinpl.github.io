@@ -5,9 +5,28 @@
         <description>Daily written record.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Aug 2024 00:19:48 +0900</pubDate>
-        <lastBuildDate>Wed, 14 Aug 2024 00:19:48 +0900</lastBuildDate>
+        <pubDate>Mon, 19 Aug 2024 22:30:32 +0900</pubDate>
+        <lastBuildDate>Mon, 19 Aug 2024 22:30:32 +0900</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
+        
+            <item>
+                <title>시간을 되돌리고 싶을 때</title>
+                <description>&lt;p&gt;어느 순간의 선택이 커다란 전환점이 되어 그 이후의 삶의 형태를 결정하는데 큰 역활을 수행한 순간이 있다는 사실을 알고 있다. ‘그때 이렇게 선택했더라면’ 하는 가정을 하며 상상의 나래를 펼치기도 한다. 지난 모든 선택이 최선이었다며 마음을 달래보지만 그렇지 않았음을 알기에 달래는 것조차 쉽지 않다. 가볍게 생각했던, 반대로 너무 무겁게 생각했던 순간들이 후회되기도 한다. 장고 끝에 악수를 두었던 순간이 떠 오르면 이렇게까지 어리석었나 하는 생각을 떨치기 어렵다.&lt;/p&gt;
+
+&lt;p&gt;기억을 되짚어가며 좋지 못했던 선택의 순간에 할 수 있었던 다른 선택지를 종이에 하나씩 써본다. 선택지 아래 선택했을 경우 예상되는 것을 천천히 기록해 본다. 그 당시 선택했던 선택지와 비교해 본다. 어느 선택에도 그저 좋기만 한 결정이 없다. 게다가 다른 선택지를 쉽사리 선택하지도 못한다. 선택했을 때 예상되는 상황은 말 그대로 예상이다. 실제로 어떤 일이 벌어질지 알 수 없다.&lt;/p&gt;
+
+&lt;p&gt;천천히 생각해 보니 이전에 잘못했다고 생각하는 선택이 마음에 들지 않기보다, 그 선택 이후의 시간이 마음에 차지 않아서 그 시간을 가져온 선택의 순간에 불만을 품는 것이다. 한순간이 아닌 꽤 긴 시간을 탓하기보다 순간을 탓하는 것이 더 편한 탓인가 보다. 그 시간이 다음 선택지의 순간을 가져왔다. 결국 선택이 중요하기보다 그 이후의 삶을 살아온 자신의 태도가 훨씬 중요했다는 사실을 느낀다.&lt;/p&gt;
+
+&lt;p&gt;‘시간을 되돌릴 수 있다면’ 하고 생각하기보다 자신이 원하는 모습이 보여 줄 태도를 상상하며 그러한 자세로 삶을 살아가는 것이 훨씬 중요하다고 생각한다.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 19 Aug 2024 21:23:12 +0900</pubDate>
+                <link>http://localhost:4000/2024/08/19/when-you-want-to-turn-time-back/</link>
+                <guid isPermaLink="true">http://localhost:4000/2024/08/19/when-you-want-to-turn-time-back/</guid>
+                
+                <category>thought</category>
+                
+                
+            </item>
         
             <item>
                 <title>어릴 적 기억, 세 번째</title>
@@ -227,29 +246,6 @@
                 <pubDate>Tue, 27 Feb 2024 16:38:11 +0900</pubDate>
                 <link>http://localhost:4000/2024/02/27/dawn/</link>
                 <guid isPermaLink="true">http://localhost:4000/2024/02/27/dawn/</guid>
-                
-                <category>disorders</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>잠들지 못하는 밤</title>
-                <description>&lt;p&gt;지난밤 잠들지 못했다. 하루 이틀 일이 아니다. 하루 대부분을 잠으로 보낸다. 늦은 밤이 되면 눈빛을 반짝이며 누워있는 자신을 마주한다. 과수면으로 지나간 시간을 되돌아보지만, 아무런 감정의 움직임이 없다. 가슴이 텅 빈 것 같다. 이럴 때면 살아있을 이유를 천천히 찾아본다. 없다. 대소변을 겨우 가리는 3살짜리 아이 같다. 거실로 나가 식탁에 있는 것으로 간단히 배를 채우고 별빛이 쏟아지는 하늘을 창으로 바라보며 시간을 보내다 어느새 쏟아지는 잠에 취해 잠들고 일어나면, 대충 이 시간쯤이다.&lt;/p&gt;
-
-&lt;h2 id=&quot;오늘은-병원-가는-날이다&quot;&gt;오늘은 병원 가는 날이다.&lt;/h2&gt;
-
-&lt;p&gt;지금까지 다니던 병원에서 이렇게 말했다. 이미 약 처방이 과한데 좋아지지 않고 점점 더 나빠지고 있으니, 병원을 옮길 것을 추천했다. 대학 병원 예약을 잡아두었다. 예약 시간에 깨어 있을까? 방 밖으로 나가는 것조차 두려운데 병원을 다녀올 수 있을까? 텅 비었던 머릿속이 다양한 질문들로 가득 채워진다. 어느 질문에도 속 시원히 답하지 못한다. 그저 상상들로 대신 답해본다. 하나같이 부정적인 답변이다.&lt;/p&gt;
-
-&lt;h2 id=&quot;없다&quot;&gt;없다&lt;/h2&gt;
-
-&lt;p&gt;왜 이러는 걸까? 어째서 지금일까? 왜 나여야 하는 걸까? 이유가 있을 것이라며 달래보지만 머리도 가슴도 동의하지 않는다. 자신의 쓸모를 찾지 못하고 있다. 텅 비어 있던 마음이 요동친다. 아무것도 없던 공간이 순식간에 물로 가득 찬다. 볼 위로 무언가 흐른다. 눈물이 흐르고 있음을 깨닫는다. 그저 눈물이 흐를 뿐 입에서 그 어떤 소리도 새어 나오지 않는다. 가슴을 살펴보면 여전히 텅 비어 있다. 나는 텅빈 사람이다. 아무것도 가지고 있지 않은 사람이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;2024-02-27 : 지나간 시간을 기억을 더듬어 기록했다&lt;/sub&gt;&lt;/p&gt;
-</description>
-                <pubDate>Thu, 20 Feb 2020 02:14:11 +0900</pubDate>
-                <link>http://localhost:4000/2020/02/20/sleepness-night/</link>
-                <guid isPermaLink="true">http://localhost:4000/2020/02/20/sleepness-night/</guid>
                 
                 <category>disorders</category>
                 
