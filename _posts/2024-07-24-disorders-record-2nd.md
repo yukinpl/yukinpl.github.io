@@ -3,7 +3,7 @@ layout: post
 title:  어릴 적 기억, 두 번째
 date:   2024-07-24 15:52:14 +0900
 image:  '/images/2024-07-24-childhood.memories.2nd.png'
-tags:   [childhood,disorders]
+tags:   [childhood,disorder]
 ---
 
 여름방학. 학교에 다니는 꼬맹이에게 신났어야 할 방학은 지루한 날의 연속이었다. 하고 싶은 일도 해야 할 일도 없었고 따분했다. 지루한 일상을 깨뜨려 주는, 겨울방학에는 없는 것, 여름성경학교. 아침부터 저녁까지 노래 부르고 이야기 듣고 놀이도 하는 시간. 방학을 시작하면 다음 주 월요일에 시작하는 그것. 

@@ -55,7 +55,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/disorders/</loc>
+<loc>http://localhost:4000/tag/disorder/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/thought/</loc>
