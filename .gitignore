@@ -1,6 +1,4 @@
 # Specify filepatterns you want git to ignore.
 
-serve.sh
-serve-drafts.sh
 *.swp
 _drafts/
